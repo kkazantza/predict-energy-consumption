@@ -19,10 +19,10 @@ The response of the get request:
 load_forecasting_web.py description
 --------------------------------------------
 
-1.necessary packages are imported
-2.load the model from load_forecasting_model_v010.joblib
-3.creation of the api
-4.predict for input values 
+1. necessary packages are imported
+2. load the model from load_forecasting_model_v010.joblib
+3. creation of the api
+4. predict for input values 
 
 Note:
 The load_forecasting_model_v010.joblib file is required in the same folder the load_forecasting_web.py will be running.

@@ -15,6 +15,14 @@ The response of the get request:
 "model_label"
 "predicted_value"
 	
+	
+sample:
+{
+  "model_label": "Random Forest Regression Model", 
+  "predicted_value": [
+    85.2
+  ]
+}
 --------------------------------------------
 load_forecasting_web.py description
 --------------------------------------------
